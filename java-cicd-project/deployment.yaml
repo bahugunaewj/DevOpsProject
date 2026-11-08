@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: java-demo
-          image: bahugunasr/java-cicd-demo:latest
+          image: bahugunasr/java-cicd-project:latest
           imagePullPolicy: Always
 
           ports:
